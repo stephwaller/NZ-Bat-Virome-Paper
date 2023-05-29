@@ -1,6 +1,6 @@
 # Virome analysis of New Zealand’s bats reveals cross-species viral transmission among the Coronaviridae
 
-Repository containing the R-code used to statistically analysis the virome alpha diversity and the alignments and sequences that were generated in "Virome analysis of New Zealand’s bats reveals cross-species viral transmission among the Coronaviridae"
+Repository containing the R-code used to statistically analysis the virome alpha diversity and the alignments that were generated in "Virome analysis of New Zealand’s bats reveals cross-species viral transmission among the Coronaviridae"
 
 Stephanie J. Waller, Pablo Tortosa, Tertia Thurley, Colin O'Donnell, Rebecca Jackson, Gillian Dennis, Rebecca M. Grimwood, Edward C. Holmes, Kate McInnes, Jemma L. Geoghegan
 
