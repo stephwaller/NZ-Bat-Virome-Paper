@@ -1,0 +1,13 @@
+﻿bat_library,Astroviridae,Picornaviridae,Coronaviridae,Paramyxoviridae,Papillomaviridae,Poxviridae,Rhabdoviridae,Raw_reads,Species,Location_Year,Location,Latitude,Longitude,Number_of_pooled_indivudal_guano samples,Samples_from,Year_of_sampling,North_South,South_GC_P
+B1,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,60114784,Mystacina tuberculata,Pureora_CR13_2020,Pureora_CR13,-38.518938,175.580484,29,Pablo,2020,North,Pureora
+B2,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,73747858,Mystacina tuberculata,Pureora_CR6_2020,Pureora_CR6,-38.518647,175.579751,33,Pablo,2020,North,Pureora
+B3,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,68031430,Mystacina tuberculata,Pureora_CR8_2020,Pureora_CR8,-38.519039,175.579168,5,Pablo,2020,North,Pureora
+B4,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,58346947,Mystacina tuberculata,Pureora_CR6_2020,Pureora_CR6,-38.518647,175.579751,11,Pablo,2020,North,Pureora
+B5,4.60E-06,1.70E-06,4.55E-03,6.37E-07,0.00E+00,0.00E+00,0.00E+00,72199047,Chalinolobus tuberculatus,Grand_canyon_cave_2020,Grand_canyon_cave,-38.583333,175.016667,40,Pablo,2020,North,Grand_canyon
+B6,5.41E-07,9.53E-06,1.30E-04,3.38E-07,0.00E+00,0.00E+00,4.06E-08,73890553,Chalinolobus tuberculatus,Grand_canyon_cave_2020,Grand_canyon_cave,-38.583333,175.016667,41,Pablo,2020,North,Grand_canyon
+B7,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,100537045,Mystacina tuberculata,Pureora_CR6_2021,Pureora_CR6,-38.518647,175.579751,13,Steph,2021,North,Pureora
+B8,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,71765568,Mystacina tuberculata,Pureora_CR8_2021,Pureora_CR8,-38.519039,175.579168,6,Steph,2021,North,Pureora
+B9,0.00E+00,0.00E+00,0.00E+00,0.00E+00,2.28E-07,4.57E-08,0.00E+00,87595899,Chalinolobus tuberculatus,Mackay_creek_Eglinton_Valley_2021,Mackay_creek_Eglinton_Valley,-45.063147,168.002128,13,Steph,2021,South,South
+B10,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,105029150,Chalinolobus tuberculatus,Pelorus_Bridge_Scenic_Reserve_2021,Pelorus_Bridge_Scenic_Reserve,-41.299399,173.577771,8,Steph,2021,South ,South
+B11,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,68034292,Mystacina tuberculata,Eglinton_Valley_2021,Eglinton_Valley,-44.912208,168.048642,6,Steph,2021,South,South
+B12,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,0.00E+00,77172400,Chalinolobus tuberculatus,Walker_creek_Eglinton_Valley_2021,Walker_creek_Eglinton_Valley,-45.104462,167.964627,12,Steph,2021,South ,South
